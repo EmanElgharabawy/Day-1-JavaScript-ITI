@@ -1,0 +1,23 @@
+Task 1: Age Status Identification
+Prompted users to input their age while ensuring positive numbers. Categorized the user's status:
+
+Child: Ages 1-10
+Teenager: Ages 11-18
+Grown-up: Ages 19-50
+Old: Ages above 50
+Continued prompting until the user opted to stop.
+Task 2: Vowel Count in a String
+Asked users to enter a string and counted the vowels (a, e, i, o, u) within the string.
+Example output: 'a=3 e=0 u=6 i=0'.
+
+Task 3: 24-Hour Clock Conversion
+Created a program to convert 24-hour time to 12-hour format, adding 'am' or 'pm' accordingly.
+Examples:
+
+0 -> 12A
+11 -> 11AM
+13 -> 1PM
+Task 4: Finding the Largest Number
+Prompted users for three numbers and found the largest among them.
+
+These tasks aimed to test various JavaScript skills: input validation, string manipulation, conditional statements, and numerical operations. They showcased how JavaScript can handle different scenarios and provided practical exercises for learning fundamental concepts.
