@@ -1,4 +1,6 @@
-# ITI-Tasks
 
-Welcome to the ITIStackDev repository! This is where I'll be documenting and sharing all the tasks and projects I undertake during my internship as a Full Stack .Net Developer at The Information Technology Institute (ITI).
-a simple JavaScript interaction web-page code , ITI javaScript Day-1 Task
+Task 1: Personalized Greetings
+Input your first and last names and birth year to receive a personalized welcome message. Example: "Welcome Ahmed Ali! You are 35 years old."
+Task 2: Calculator's First Release
+Input your first and second numbers, and the calculator will show you the summation result. Example: "20 + 60 = 80."
+Stay tuned for more features and enhancements in the future.
